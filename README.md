@@ -24,4 +24,7 @@ According to the visualization, all three city types follow a relatively similar
 suburban fare toward the end of April.
 
 ## Summary of Implications and Points of Consideration
-* 
+* Total rate of fares by city type seem to follow a similar pattern, with the exception of suburban fare around the end of April.
+* There is far less overall money made in rural areas and more made in urban areas. The rates per driver are much higher in rural areas compared to urban areas. 
+* Compared to suburban areas, urban ride sharing is still the highest used. 
+* Urban drivers make the least amount per city type. There are many more drivers in the urban areas. 
